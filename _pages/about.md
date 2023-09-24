@@ -16,9 +16,9 @@ Please feel free to contact [me](gsunah@connect.ust.hk) if you have questions ab
 
 Education
 ======
-* B.S. in Mechatronics Engineering, Zhejiang University, 2014-2018
-* M.S. in Mechanical Engineering, Johns Hopkins University, 2019-2021
-* Ph.D in Individualized Interdisciplinary Program (Robotics and Autonomous Systems), The Hong Kong University of Science and Technology, 2021-now 
+* B.S. in Mechatronics Engineering, Zhejiang University, 2014 - 2018
+* M.S. in Mechanical Engineering, Johns Hopkins University, 2019 - 2021
+* Ph.D in Individualized Interdisciplinary Program (Robotics and Autonomous Systems), The Hong Kong University of Science and Technology, 2021 - now 
 
 Publications
 ======

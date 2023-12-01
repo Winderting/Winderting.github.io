@@ -6,12 +6,12 @@ excerpt: 'Predicting pedestrian trajectories is crucial for improving the safety
 To address these challenges and promote the application of diffusion models in trajectory prediction, we propose a novel scene-aware multi-modal pedestrian trajectory prediction framework called GBD. GBD combines goal prediction with the diffusion network. First, the goal predictor produces multiple goals, and then the diffusion network generates multi-modal trajectories conditioned on these goals. Furthermore, we introduce a new diffusion sampling algorithm named tree sampling (TS), which leverages common feature to reduce the inference time and improve accuracy for multi-modal prediction. Experimental results demonstrate that our GBD-TS method achieves state-of-the-art performance with real-time inference speed.'
 date: 2023-09-16
 venue: 'Submitted'
-paperurl: #'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8855976/'
+paperurl: 'https://arxiv.org/abs/2311.14922'
 citation: '<b>Ge Sun</b>, Sheng Wang, Yang Xiao, Lei Zhu and Ming Liu*.'
 ---
 Predicting pedestrian trajectories is crucial for improving the safety and effectiveness of autonomous driving and mobile robots. However, this task is nontrivial due to the inherent stochasticity of human motion, which naturally requires the predictor to generate multi-model prediction. Previous works have used various generative methods, such as GAN and VAE, for pedestrian trajectory prediction. Nevertheless, these methods may suffer from problems, including mode collapse and relatively low-quality results. The denoising diffusion probabilistic model (DDPM) has recently been applied to trajectory prediction due to its simple training process and powerful reconstruction ability. However, current diffusion-based methods are straightforward without fully leveraging input information and usually require many denoising iterations leading to a long inference time or an additional network for initialization.
 To address these challenges and promote the application of diffusion models in trajectory prediction, we propose a novel scene-aware multi-modal pedestrian trajectory prediction framework called GBD. GBD combines goal prediction with the diffusion network. First, the goal predictor produces multiple goals, and then the diffusion network generates multi-modal trajectories conditioned on these goals. Furthermore, we introduce a new diffusion sampling algorithm named tree sampling (TS), which leverages common feature to reduce the inference time and improve accuracy for multi-modal prediction. Experimental results demonstrate that our GBD-TS method achieves state-of-the-art performance with real-time inference speed.
 
-<!-- [Download paper here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8855976/pdf/nihms-1777037.pdf) -->
+[Download paper here](https://arxiv.org/pdf/2311.14922.pdf)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->

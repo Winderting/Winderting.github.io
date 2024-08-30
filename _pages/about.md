@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D student in Individualized Interdisciplinary Program (Robotics and Autonomous Systems) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of Prof. [Ming Liu](https://scholar.google.com/citations?user=CdV5LfQAAAAJ). My primary research interests include Trajectory Prediction, Deep Learning, and Autonomous Driving.
+I am a Ph.D student in Individualized Interdisciplinary Program (Robotics and Autonomous Systems) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of Prof. [Jun MA](https://scholar.google.com/citations?user=8VepsVAAAAAJ). My primary research interests include Trajectory Prediction, Deep Learning, and Autonomous Driving.
 
 Before I joined HKUST, I obtained my M.S. degree in Mechanical Engineering in 2021 from Johns Hopkins University, advised by Prof. [Iulian I. Iordachita](https://scholar.google.com/citations?user=X2Snm74AAAAJ). I graduated from Zhejiang University in Fall 2018 with a B.S. in Mechatronics Engineering.
 
